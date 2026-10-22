@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "Flashforge PLA-CF"
+    ],
+    "filament_vendor": [
+        "Flashforge"
+    ],
+    "from": "system",
+    "inherits": "Flashforge Generic PLA-CF10",
+    "instantiation": "true",
+    "is_custom_defined": "0",
+    "name": "Flashforge PLA-CF",
+    "setting_id": "JxNlb64lTODaaQhU",
+    "version": "2.1.1.0"
+}

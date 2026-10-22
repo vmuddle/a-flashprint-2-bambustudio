@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "Flashforge PLA Color Change"
+    ],
+    "filament_vendor": [
+        "Flashforge"
+    ],
+    "from": "system",
+    "inherits": "Flashforge Generic PLA",
+    "instantiation": "true",
+    "is_custom_defined": "0",
+    "name": "Flashforge PLA Color Change",
+    "setting_id": "pCQ2qmeXUyJzP7kS",
+    "version": "2.1.1.0"
+}

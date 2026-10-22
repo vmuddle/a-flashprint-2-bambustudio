@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "Flashforge HS PETG"
+    ],
+    "filament_vendor": [
+        "Flashforge"
+    ],
+    "from": "system",
+    "inherits": "Flashforge Generic PETG",
+    "instantiation": "true",
+    "is_custom_defined": "0",
+    "name": "Flashforge HS PETG",
+    "setting_id": "H9uwlPw6m6Nf7qH5",
+    "version": "2.1.1.0"
+}
